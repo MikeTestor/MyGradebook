@@ -1,0 +1,10 @@
+C:\C#\Pluralsight\Gradebook\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\C#\Pluralsight\Gradebook\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\C#\Pluralsight\Gradebook\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\C#\Pluralsight\Gradebook\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+C:\C#\Pluralsight\Gradebook\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+C:\C#\Pluralsight\Gradebook\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojAssemblyReference.cache
+C:\C#\Pluralsight\Gradebook\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+C:\C#\Pluralsight\Gradebook\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\C#\Pluralsight\Gradebook\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+C:\C#\Pluralsight\Gradebook\v3.0.0\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
